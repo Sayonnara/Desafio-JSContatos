@@ -40,3 +40,5 @@ Aplicar boas práticas de organização de código
 <h1>✅ Conclusão </h1>
 <p>Cada pequeno projeto como este ajuda a construir a base para projetos maiores. Aprendi que praticar é essencial para entender como HTML, CSS e JavaScript trabalham juntos. Agora me sinto mais confiante para criar interfaces mais funcionais e interativas!</p>
 
+
+![agenda-telefonica](https://github.com/user-attachments/assets/f87dc7a7-f0da-434f-85e4-ce6b3e4cdaca)
